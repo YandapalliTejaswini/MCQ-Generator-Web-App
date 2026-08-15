@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="center" id="title">MCQ Generator Web App</h1>
 
 <p id="description">This is a web-based application built using **FastAPI** and **SpaCy** that allows users to upload a PDF or enter custom text and generates Multiple Choice Questions (MCQs) based on the input.</p>
@@ -74,9 +74,9 @@
 <p>1. Clone the repository:</p>
 
 ```
-git clone https://github.com/surendrapattikonda/mcq-generator-1.git
+git clone https://github.com/YandapalliTejaswini/MCQ-Generator-Web-App.git
 
-cd mcq-generator-1
+cd MCQ-Generator-Web-App
 ```
 
 <p>2. Create a virtual environment and activate it:</p>
@@ -133,5 +133,4 @@ Tejaswini Yandapalli
 
 B.Tech CSE (Data Science)
 =======
-# MCQ-Generator-Web-App
->>>>>>> bc8e9138d9ee555de7e3a5f7b706e2eff4ff4cd0
+
