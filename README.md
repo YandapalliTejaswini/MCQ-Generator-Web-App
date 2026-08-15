@@ -129,7 +129,7 @@ Store user scores and answers
 Export MCQs as PDF or Excel.
 
 ## 🙋‍♂️ Author
-Surendra Pattikonda
+Tejaswini Yandapalli
 
 B.Tech CSE (Data Science)
 =======
